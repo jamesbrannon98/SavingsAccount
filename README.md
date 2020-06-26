@@ -1,7 +1,7 @@
 This is a simple Java program that saves an account balance internally, and then recalculates the balance of the savings account each month with compound interest.
 
 In order to test this project, two accounts were setup with a balance of $2000 and $3000. The interest rate was set to 4%, and the compound interest was calculated over 12 months.
-The interest rate was then changed to 5%, and the balances were updated for a 13th month. The ouput when run, including the formatting, is as follows:
+The interest rate was then changed to 5%, and the balances were updated for a 13th month. The ouput when run is as follows:
 
 # Savings Account Balances
 |Month       |  Saver1  |  Saver2|
